@@ -9,7 +9,7 @@
 * ft_toupper - lower case to upper case letter conversion.
 
 # Functions from <stdlib.h> library
-* [ft_atoi](../ft_atoi.c) - convert ASCII string to integer.
+* ft_atoi - convert ASCII string to integer.
 * ft_calloc - memory allocation.
 
 # Functions from <strings.h> library
